@@ -1,0 +1,419 @@
+[{
+    "id": 1,
+    "img": "https://img.freepik.com/premium-vector/realistic-math-chalkboard-background_23-2148154055.jpg?w=2000",
+    "name": "Math",
+    "questions": [
+        {
+            "id": 1,
+            "text": "3+2(3+2)",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "13",
+                    "isCorrect": true
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": "25",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": "10",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "5",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "text": "(3+2)",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "23",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": "15",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": "0",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "5",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "text": "(3*3-4+8)",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "13",
+                    "isCorrect": true
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": "15",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": "100",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "5",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "text": "5*5*2(3+4-1)",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "55",
+                    "isCorrect": true
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": "10",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": "50",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "53",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+},
+{
+    "id": 2,
+    "img": "https://static.wixstatic.com/media/7fe4e3_e9631d35de724b12b75a50f50d0c76fd~mv2.jpg/v1/crop/x_0,y_60,w_395,h_275/fill/w_553,h_385,al_c,lg_1,q_80,enc_auto/Biology.jpg",
+    "name": "Biology",
+    "questions": [
+        {
+            "id": 1,
+            "text": "Photosynthesis mostly occurs in which part of plants?",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Leaves",
+                    "isCorrect": true
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Root",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Bark",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Fruit",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "text": "Which of the following terms refers to animals that eat both animals and plants?",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Herbivores",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Carnivores",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Fungivores",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Omnivores",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "text": "Which of the following big cats is the fastest animal on land?",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Cheetah",
+                    "isCorrect": true
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Leopard",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Puma",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Blackpanther",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+},
+{
+    "id": 3,
+    "img": "https://media.istockphoto.com/id/1195746261/vector/internet-banner-about-learning-english-language-blue-outline-icons-symbols-signs-on-white.jpg?s=612x612&w=0&k=20&c=zjZCtpoMafzAFn2FGCEcz0SK4558pJ2LdVaEBr2-ozQ=",
+    "name": "English",
+    "questions": [
+        {
+            "id": 1,
+            "text": "Have you done the laundry?",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "No, I haven't",
+                    "isCorrect": true
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Yes, I do",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": "No, I don't",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Yes, we shall",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "text": "Shall we go to your place or mine?",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "No, I don't",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Yes, we shall",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": " It is yours",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "My place",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "text": " Who did you visit?",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "I visited Judy",
+                    "isCorrect": true
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": " I visit my mother",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": "It was Ryan",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Yes, I did",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+},
+{
+    "id": 4,
+    "img": "https://www.beano.com/wp-content/uploads/legacy/63657_241f8e315d3103921a924e5374772925feba79513a6ec0360d9046a555f6.jpg?quality=76&strip=all&w=960",
+    "name": "About Cat",
+    "questions": [
+        {
+            "id": 1,
+            "text": "It is said cats have how many lives?",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "9",
+                    "isCorrect": true
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": "8",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": "1",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "3",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "text": "How many bones do cats have?",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "30",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": "130",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": " 210",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "230",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "text": " Which breed of cat doesn't have fur?",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Sphynx",
+                    "isCorrect": true
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": " Turkish van",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Devon rex",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "ill Cat",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}
+]
